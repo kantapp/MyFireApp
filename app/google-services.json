@@ -103,6 +103,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "452968296625-1k63itr2hjpk4t2bes4uurm484hmob5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kantapp.myfireapp",
+            "certificate_hash": "f1ec3da7ce7f40f90d5e538b03a6f6354183a1c1"
+          }
+        },
+        {
           "client_id": "452968296625-7h3t9f7uk9uvl24rsmbq6lhtim37jvks.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
